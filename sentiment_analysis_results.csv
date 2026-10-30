@@ -1,0 +1,16 @@
+Review_ID,Product,Review,Sentiment,Predicted_Sentiment
+1,Mobile,"Excellent product, I really love it",Positive,Positive
+2,Laptop,Very fast and smooth performance,Positive,Neutral
+3,Headphones,Amazing sound quality,Positive,Positive
+4,Watch,Battery backup is excellent,Positive,Positive
+5,Mobile,Very poor camera quality,Negative,Negative
+6,Laptop,"Worst experience, very slow",Negative,Negative
+7,Headphones,Sound quality is terrible,Negative,Negative
+8,Watch,Battery drains too quickly,Negative,Neutral
+9,Mobile,"Product is okay, nothing special",Neutral,Negative
+10,Laptop,Average performance,Neutral,Neutral
+11,Watch,It is neither good nor bad,Neutral,Negative
+12,Headphones,Normal product for daily use,Neutral,Neutral
+13,Mobile,Great value for money,Positive,Positive
+14,Laptop,Not satisfied with this purchase,Negative,Negative
+15,Watch,Decent product at this price,Neutral,Neutral
